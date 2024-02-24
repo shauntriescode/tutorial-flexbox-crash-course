@@ -1,2 +1,2 @@
 # tutorial-flexbox-crash-course
-Flexbox Crash Course
+Followina tutorial, I created a responsive webpage with a flexbox layout
